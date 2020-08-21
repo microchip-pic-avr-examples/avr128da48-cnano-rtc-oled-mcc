@@ -9,7 +9,7 @@ This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurat
 More details and code examples on the AVR128DA48 can be found at the following links:
 - [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA28)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
-- [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
+- [AVR128DA48 Project Examples in START] (https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
 
 ## Software Used
 - MPLAB® X IDE 5.40 or newer [(microchip.com/mplab/mplab-x-ide)](http://www.microchip.com/mplab/mplab-x-ide)

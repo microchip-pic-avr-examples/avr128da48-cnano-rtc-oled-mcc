@@ -47,8 +47,8 @@ static spi0_descriptor_t spi0_desc;
 
 uint8_t SPI0_Initialize()
 {
-    //DORD disabled; MASTER enabled; CLK2X enabled; PRESC DIV64; ENABLE enabled; 
-    SPI0.CTRLA = 0x35;
+    //DORD disabled; MASTER enabled; CLK2X enabled; PRESC DIV4; ENABLE enabled; 
+    SPI0.CTRLA = 0x31;
 
     //BUFEN disabled; BUFWR disabled; SSD disabled; MODE 0; 
     SPI0.CTRLB = 0x00;
