@@ -25,7 +25,6 @@
 #include "OLED_functions.h"
 #include "mcc_generated_files/oledC_colors.h"
 #include "mcc_generated_files/oledC_shapes.h"
-#include "CLOCK_functions.h"
 
 
 #define BUFF_SIZE                       10
