@@ -3,28 +3,28 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.",
-        "version": " ",
-        "displayName": "  ",
-        "projectName": "",
-        "shortDescription": "",
+        "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-rtc-oled-mcc",
+        "version": "1.0.0 ",
+        "displayName": " AVR128DA48 RTC with OLED Click - MCC example ",
+        "projectName": "avr128da48-cnano-rtc-oled-mcc",
+        "shortDescription": "A program that displays a real time clock on an OLED screen. The clock is configurable by the on board button",
         "ide": {
-            "name": "",
-            "semverRange": ""
+            "name": "MPLABX",
+            "semverRange": ">=5.40"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "XC8",
+				"semverRange": "^2.20.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Dx_DFP",
+            "semverRange": "1.3.65"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": ">=3.95"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -32,26 +32,28 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "AVR128DA48",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
-            "",
+            "MCC",
             [
-               "Peripherals", ""
-            ],
-            [
-               "Peripherals", ""
-            ]            			
+               "Peripherals", "RTC"
+            ],    
+			[
+               "Peripherals", "SPI"
+            ]   			
         ],
         "peripherals": [
-            "",""
+            "RTC","SPI"
         ],
         "keywords": [
-            "",
-            ""			
+            "RTC",
+            "OLED",
+			"Click",
+			"clock"
         ],
 		"additionalData": {
 			"longDescription": {
