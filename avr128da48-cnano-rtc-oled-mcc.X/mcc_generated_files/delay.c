@@ -20,7 +20,6 @@
     TERMS.
 */
 
-#include "Config/clock_config.h"
 #include <util/delay.h>
 #include <stdint.h>
 
