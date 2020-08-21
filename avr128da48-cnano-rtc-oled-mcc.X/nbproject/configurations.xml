@@ -73,8 +73,8 @@
         <itemPath>mcc_generated_files/oledC.c</itemPath>
       </logicalFolder>
       <itemPath>main.c</itemPath>
-      <itemPath>CLOCK_functions.C</itemPath>
-      <itemPath>OLED_functions.C</itemPath>
+      <itemPath>CLOCK_functions.c</itemPath>
+      <itemPath>OLED_functions.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
