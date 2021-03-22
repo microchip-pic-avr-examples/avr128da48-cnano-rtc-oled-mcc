@@ -5,11 +5,11 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-rtc-oled-mcc",
         "version": "1.0.1",
-        "displayName": " AVR128DA48 RTC with OLED Click - MCC example",
+        "displayName": "RTC OLED Click - MCC example",
         "projectName": "avr128da48-cnano-rtc-oled-mcc",
         "shortDescription": "A program that displays a real time clock on an OLED screen. The clock is configurable by the on board button",
         "ide": {
-            "name": "MPLABX",
+            "name": "MPLAB X",
             "semverRange": ">=5.40"
         },
         "compiler": [
@@ -40,13 +40,11 @@
         "subcategories": [
             [
                 "Peripherals",
-                "RTC",
-                "SPI",
-                "MCC"
+                "RTC"
             ]
         ],
         "peripherals": [
-            "RTC","SPI"
+            "RTC"
         ],
         "keywords": [
             "OLED Click",

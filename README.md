@@ -1,9 +1,8 @@
-<div id="readme" class="Box-body readme blob js-code-block-container">
- <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="MCHP" width="300";"></a></p>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
 # AVR128DA48 RTC OLED - MCC Example
 
-This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurator) generated code example for a fully configurable real time clock displayed on an OLED screen.  
+This repository provides a MPLAB® X IDE project with an MCC (MPLAB Code Configurator) generated code example for a fully configurable real time clock displayed on an OLED screen.  
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
