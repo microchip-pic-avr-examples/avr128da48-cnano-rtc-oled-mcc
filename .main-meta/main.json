@@ -5,9 +5,9 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-rtc-oled-mcc",
         "version": "1.0.1",
-        "displayName": "RTC OLED Click - MCC example",
+        "displayName": "Desk Clock using RTC and an OLED Click",
         "projectName": "avr128da48-cnano-rtc-oled-mcc",
-        "shortDescription": "A program that displays a real time clock on an OLED screen. The clock is configurable by the on board button",
+        "shortDescription": "This repository represents an MPLAB X project for an application that shows the current time using an OLED screen. The clock is configurable by the Curiosity Nano's on-board button",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=5.40"

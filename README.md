@@ -1,8 +1,8 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# AVR128DA48 RTC OLED - MCC Example
+# Desk Clock using RTC and an OLED Click
 
-This repository provides a MPLAB® X IDE project with an MCC (MPLAB Code Configurator) generated code example for a fully configurable real time clock displayed on an OLED screen.  
+This repository represents an MPLAB X project for an application that shows the current time using an OLED screen. The clock is configurable by the Curiosity Nano's on-board button.  
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
