@@ -4,27 +4,27 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-rtc-oled-mcc",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "Desk Clock using RTC and an OLED Click",
         "projectName": "avr128da48-cnano-rtc-oled-mcc",
         "shortDescription": "This repository represents an MPLAB X project for an application that shows the current time using an OLED screen. The clock is configurable by the Curiosity Nano's on-board button",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=5.40"
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
-			{
-				"name": "XC8",
-				"semverRange": "^2.20.0"
-			}
-		],
+            {
+                "name": "XC8",
+                "semverRange": "^2.20.0"
+            }
+        ],
         "dfp": {
             "name": "AVR-Dx",
             "semverRange": "^1.3.65"
         },
         "configurator": {
             "name": "MCC",
-            "semverRange": ">=3.95"
+            "semverRange": ">=3.95.0"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -50,16 +50,16 @@
             "OLED Click",
             "Timers/Counters"
         ],
-		"additionalData": {
-			"longDescription": {
-				"metaDataVersion": "1.0.0",
-				"category": "com.microchip.portal.fileRef",
-				"content": {
-					"metaDataVersion": "1.0.0",
-					"fileName": "./README.md",
-					"mimeType": "text/markdown"
-				}
-			}
-		}
-	}
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
 }
